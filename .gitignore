@@ -1,0 +1,6 @@
+__pycache__
+.gitattributes
+.gitignore
+fws/*/
+release/
+*.bin
